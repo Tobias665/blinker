@@ -1,3 +1,4 @@
+//eawas
 #include "gui.h"
 
 #include <QApplication>
